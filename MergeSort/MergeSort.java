@@ -1,6 +1,6 @@
 
 /*
- * Algorith MergeSort
+ * Algorithm MergeSort
  */
 import java.util.Arrays;
 
